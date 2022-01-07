@@ -9,8 +9,8 @@
 ## Languages
 
 <div align='center'>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=blue"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=orange"></a>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white"></a> 
   <a href="#"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> 
   <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
